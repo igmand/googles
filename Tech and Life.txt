@@ -1,0 +1,43 @@
+! name: Tech and Media  ru
+! description:  top  tech and media news sites
+! public: true
+! author: igman
+
+$boost=3,site=habr.com
+$boost=3,site=vc.ru
+$boost=3,site=ixbt.com
+$boost=3,site=3dnews.ru
+$boost=3,site=kod.ru
+$boost=3,site=naked-science.ru
+$boost=3,site=deep-review.com
+$boost=3,site=kinopoisk.ru
+$boost=3,site=gorky.media
+$boost=3,site=snob.ru
+$boost=3,site=sportbox.ru
+$boost=3,site=championat.com
+$boost=3,site=sports.ru
+$boost=3,site=sport-express.ru
+$boost=3,site=kinonews.ru
+$boost=3,site=kino-teatr.ru
+$boost=3,site=mirf.ru
+$boost=3,site=filmz.ru
+$boost=3,site=kinoafisha.info
+$boost=3,site=imdb.com
+$boost=3,site=maximonline.ru
+$boost=3,site=ok-magazine.ru
+$boost=3,site=thevoicemag.ru
+$boost=3,site=peopletalk.ru
+$boost=3,site=7days.ru
+$boost=3,site=starhit.ru
+$boost=3,site=n1media.ru
+$boost=3,site=super.ru
+$boost=3,site=secretchatmagazine.ru
+$boost=3,site=vogue.ru
+$boost=3,site=theblueprint.ru
+$boost=3,site=buro247.ru
+$boost=3,site=profashion.ru
+$boost=3,site=msdmanuals.com/ru
+$boost=3,site=pillintrip.com
+$boost=3,site=vidal.ru
+$boost=3,site=vidal.by
+$boost=3,site=megapteka.ru
