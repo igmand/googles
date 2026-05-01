@@ -8,8 +8,14 @@ $boost=3,site=vc.ru
 $boost=3,site=ixbt.com
 $boost=3,site=3dnews.ru
 $boost=3,site=kod.ru
+$boost=3,site=lifehacker.ru
+$boost=3,site=techcrunch.com
+$boost=3,site=techrepublic.com
 $boost=3,site=naked-science.ru
 $boost=3,site=deep-review.com
+$boost=3,site=autoreview.ru
+$boost=3,site=avito.ru
+$boost=3,site=av.by
 $boost=3,site=kinopoisk.ru
 $boost=3,site=gorky.media
 $boost=3,site=snob.ru
