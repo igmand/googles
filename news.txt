@@ -1,0 +1,24 @@
+! name: ru-by news
+! description: shows  news from ru-by
+! public: true
+! author: igman
+$boost=4,site=dzen.ru
+$boost=4,site=tass.com
+$boost=4,site=mk.ru
+$boost=4,site=sputniknews.com
+$boost=4,site=rambler.ru
+$boost=4,site=pravda.ru
+$boost=4,site=ria.ru
+$boost=4,site=lenta.ru
+$boost=4,site=kp.ru
+$boost=4,site=aif.ru
+$boost=4,site=vesti.ru
+$boost=4,site=interfax.ru
+$boost=4,site=nashaniva.com
+$boost=4,site=sputnik.by
+$boost=4,site=news.by
+$boost=4,site=belta.by
+$boost=4,site=belnovosti.by
+*.ru^$boost=2
+*.su^$boost=1
+*.by^$boost=1
