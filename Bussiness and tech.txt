@@ -1,0 +1,51 @@
+! name: Business Global
+! description:  top  business and finance news sites
+! public: true
+! author: igman
+
+$boost=3,site=rbc.ru
+$boost=3,site=forbes.ru
+$boost=3,site=vedomosti.ru
+$boost=3,site=kommersant.ru
+$boost=3,site=finam.ru
+$boost=3,site=smart-lab.ru
+$boost=3,site=bloomberg.com
+$boost=3,site=reuters.com
+$boost=3,site=economist.com
+$boost=3,site=expert.ru
+$boost,site=incrussia.ru
+$boost,site=journal.tinkoff.ru
+$boost,site=e-xecutive.ru
+$boost,site=cbr.ru
+$boost,site=minfin.gov.by
+$boost,site=minfin.gov.ru
+$boost,site=acra-ratings.ru
+$boost,site=cnbc.com
+$boost,site=bbc.com
+$boost,site=nytimes.com
+$boost,site=washingtonpost.com
+$boost,site=theguardian.com
+$boost,site=forbes.com
+$boost,site=marketwatch.com
+$boost,site=businessinsider.com
+$boost,site=investopedia.com
+$boost,site=seekingalpha.com
+$boost,site=morningstar.com
+$boost,site=finance.yahoo.com
+$boost,site=barrons.com
+$boost,site=aljazeera.com
+$boost,site=axios.com
+$boost,site=semafor.com
+$boost,site=spglobal.com
+$boost,site=statista.com
+$boost,site=theinformation.com
+$boost,site=techcrunch.com
+$boost,site=venturebeat.com
+$boost,site=crunchbase.com
+$boost,site=afr.com
+$boost,site=theglobeandmail.com
+$boost,site=financialpost.com
+$boost,site=straitstimes.com
+$boost,site=livemint.com
+$boost,site=moneycontrol.com
+$boost,site=dw.com
