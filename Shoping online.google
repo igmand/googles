@@ -23,7 +23,7 @@ $boost=3,site=aliexpress.ru
 $boost=3,site=allegro.pl
 $boost=3,site=idealo.de
 $boost=3,site=shopping.google.com
-
+*.by^$boost=5-8
 promote (host: '*.by')
 downrank (host: `*.ozon.ru`) or (host: `*.wildberries.ru`)
 
