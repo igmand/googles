@@ -1,12 +1,12 @@
-! name: Tech and Media  ru
+! name: Tech and Media ru
 ! description:  top  tech and media news sites
 ! public: false
 ! author: igm
 
-$boost=3,site=habr.com
-$boost=3,site=vc.ru
-$boost=3,site=ixbt.com
-$boost=3,site=3dnews.ru
+$boost=5,site=habr.com
+$boost=5,site=vc.ru
+$boost=5,site=ixbt.com
+$boost=5,site=3dnews.ru
 $boost=3,site=kod.ru
 $boost=3,site=lifehacker.ru
 $boost=3,site=cyberforum.ru
@@ -14,9 +14,21 @@ $boost=3,site=techcrunch.com
 $boost=3,site=techrepublic.com
 $boost=3,site=naked-science.ru
 $boost=3,site=deep-review.com
-$boost=3,site=youtube.com
+$boost=3,site=cyberleninka.ru
+$boost=3,site=flibusta.is
+$boost=3,site=runivers.ru
+$boost=3,site=lib.ru
+$boost=3,site=scholar.google.ru
+$boost=3,site=archive.org
+$boost=3,site=doaj.org
+$boost=3,site=feb-web.ru
+$boost=3,site=imwerden.de
+$boost=3,site=aldebaran.ru
+$boost=3,site=biglibrary.org
+$boost=5,site=youtube.com
 $boost=3,site=autoreview.ru
 $boost=3,site=auto.ru
+$boost=3,site=abw.by
 $boost=3,site=drive2.ru
 $boost=3,site=sports.ru
 $boost=3,site=sport-express.ru
