@@ -24,8 +24,8 @@ $boost=3,site=allegro.pl
 $boost=3,site=idealo.de
 $boost=3,site=shopping.google.com
 
-$downrank=10,site=ozon.ru
-$downrank=10,site=wildberries.ru
+ozon.ru $discard
+wildberries.ru $discard
 *.by^$boost=5
 
 
