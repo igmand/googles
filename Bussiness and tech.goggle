@@ -1,7 +1,7 @@
 ! name: Business Global
 ! description:  top  business and finance news sites
 ! public: true
-! author: igman
+! author: igm
 
 $boost=3,site=rbc.ru
 $boost=3,site=forbes.ru
