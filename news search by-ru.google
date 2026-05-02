@@ -1,24 +1,26 @@
-! name: ru-by news
-! description: shows  news from ru-by
+! name:by- ru- news
+! description: news from by-ru
 ! public: true
-! author: igman
-$boost=4,site=dzen.ru
-$boost=4,site=tass.com
+! author: igm
+
+$boost=5,site=ria.ru
+$boost=5,site=interfax.ru
+$boost=5,site=lenta.ru
+$boost=5,site=sputnik.by
 $boost=4,site=mk.ru
-$boost=4,site=sputniknews.com
+$boost=4,site=dzen.ru
+$boost=4,site=fontanka.ru
 $boost=4,site=rambler.ru
 $boost=4,site=pravda.ru
-$boost=4,site=ria.ru
-$boost=4,site=lenta.ru
+$boost=4,site=gazeta.ru
 $boost=4,site=kp.ru
 $boost=4,site=aif.ru
 $boost=4,site=vesti.ru
-$boost=4,site=interfax.ru
 $boost=4,site=nashaniva.com
-$boost=4,site=sputnik.by
 $boost=4,site=news.by
 $boost=4,site=belta.by
 $boost=4,site=belnovosti.by
-*.ru^$boost=2
+*.by^$boost=2
+*.ru^$boost=3
 *.su^$boost=1
-*.by^$boost=1
+
