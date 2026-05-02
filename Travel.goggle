@@ -10,7 +10,11 @@ $boost=5,site=travel.ru
 $boost=3,site=airpano.com
 $boost=3,site=100dorog.ru
 $boost=3,site=planet-today.ru
-$boost=3,site=topHotels.ru
+$boost=5,site=kvartirka.com
+$boost=5,site=cian.ru
+$boost=5,site=2gis.ru
+$boost=3,site=101hotels.com
+$boost=5,site=topHotels.ru
 $boost=5,site=tutu.ru
 $boost=5,site=by.trip.com
 $boost=5,site=aviasales.ru
