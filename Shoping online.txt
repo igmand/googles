@@ -1,0 +1,30 @@
+! name: Shopping filter BY
+! description:  e-commerce platforms and shopping sites BY
+! public: true
+! author: igm
+
+$boost=7,site=ozon.by
+$boost=7,site=wildberries.by
+$boost=7,site=shop.by
+$boost=5,site=emall.by
+$boost=5,site=21vek.by
+$boost=5,site=onliner.by
+$boost=5,site=1k.by
+$boost=5,site=kufar.by
+$boost=3,site=skidkaonline.by
+$boost=5,site=tabletka.by
+$boost=3,site=vidal.by
+$boost=3,site=deal.by
+$boost=3,site=pulscen.by
+$boost=3,site=tomas.by
+$boost=3,site=unishop.by
+$boost=3,site=slivki.by
+$boost=3,site=aliexpress.ru
+$boost=3,site=allegro.pl
+$boost=3,site=idealo.de
+$boost=3,site=shopping.google.com
+
+
+$downrank=7,site=ozon.ru
+$downrank=7,site=wildberries.ru
+
