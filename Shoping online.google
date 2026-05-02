@@ -1,6 +1,6 @@
 ! name: Shopping filter BY
 ! description:  e-commerce platforms and shopping sites BY
-! public: true
+! public: false
 ! author: igm
 
 *.by^$boost=5
