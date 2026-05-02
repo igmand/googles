@@ -26,6 +26,10 @@ $boost=3,site=imwerden.de
 $boost=3,site=aldebaran.ru
 $boost=3,site=biglibrary.org
 $boost=5,site=youtube.com
+$boost=5,site=soundcloud.com
+$boost=5,site=hdtracks.com
+$boost=5,site=qobuz.com
+$boost=5,site=zaycev.net
 $boost=3,site=autoreview.ru
 $boost=3,site=auto.ru
 $boost=3,site=abw.by
