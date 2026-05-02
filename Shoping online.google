@@ -3,7 +3,6 @@
 ! public: true
 ! author: igm
 
-$boost=7,site=*.by
 $boost=7,site=ozon.by
 $boost=7,site=wildberries.by
 $boost=7,site=shop.by
