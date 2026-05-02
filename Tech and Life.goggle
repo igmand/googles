@@ -1,7 +1,7 @@
 ! name: Tech and Media  ru
 ! description:  top  tech and media news sites
 ! public: true
-! author: igman
+! author: igm
 
 $boost=3,site=habr.com
 $boost=3,site=vc.ru
@@ -14,8 +14,8 @@ $boost=3,site=techcrunch.com
 $boost=3,site=techrepublic.com
 $boost=3,site=naked-science.ru
 $boost=3,site=deep-review.com
+$boost=3,site=youtube.com
 $boost=3,site=autoreview.ru
-$boost=3,site=avito.ru
 $boost=3,site=auto.ru
 $boost=3,site=drive2.ru
 $boost=3,site=sports.ru
@@ -41,5 +41,4 @@ $boost=3,site=buro247.ru
 $boost=3,site=profashion.ru
 $boost=3,site=pillintrip.com
 $boost=3,site=vidal.ru
-$boost=3,site=vidal.by
 $boost=3,site=megapteka.ru
