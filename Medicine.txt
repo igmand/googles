@@ -1,0 +1,23 @@
+! name: Medicine
+! description:  search for science and medical research, top publications, journals, and databases
+! public: true
+! author: igm
+
+$boost=3,site=capta.ru
+$boost=3,site=doct.ru
+$boost=3,site=forums.rusmedserv.com
+$boost=3,site=consmed.ru
+$boost=3,site=facts.museum
+$boost=3,site=taomed.ru
+$boost=3,site=probl-endojournals.ru
+$boost=3,site=medsi.ru
+$boost=3,site=bigenc.ru
+$boost=3,site=dikoved.ru
+$boost=3,site=cyberleninka.ru
+$boost=3,site=ayzdorov.ru
+$boost=3,site=medyunion.ru
+$boost=3,site=lvrach.ru
+$boost=3,site=life4me.plus
+$boost=2,site=webmd.com
+$boost=2,site=healthcentral.com
+$boost=3,site=tabletka.by
