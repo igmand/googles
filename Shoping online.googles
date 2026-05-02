@@ -24,7 +24,6 @@ $boost=3,site=allegro.pl
 $boost=3,site=idealo.de
 $boost=3,site=shopping.google.com
 
-
 $downrank=7,site=ozon.ru
 $downrank=7,site=wildberries.ru
 
