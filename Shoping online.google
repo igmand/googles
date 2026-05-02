@@ -25,7 +25,8 @@ $boost=3,site=allegro.pl
 $boost=3,site=idealo.de
 $boost=3,site=shopping.google.com
 
-$downrank=3,site=(host: `*.ozon.ru`) or (host: `*.wildberries.ru`)
+$downrank=5,site=ozon.ru 
+$downrank=5,site=wildberries.ru
 
 
 
