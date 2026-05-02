@@ -3,6 +3,7 @@
 ! public: true
 ! author: igm
 
+*.by^$boost=5
 $boost=7,site=ozon.by
 $boost=7,site=wildberries.by
 $boost=7,site=shop.by
@@ -23,8 +24,8 @@ $boost=3,site=aliexpress.ru
 $boost=3,site=allegro.pl
 $boost=3,site=idealo.de
 $boost=3,site=shopping.google.com
-promote (host: '*.by')
-downrank (host: `*.ozon.ru`) or (host: `*.wildberries.ru`)
+
+$downrank=3,site=(host: `*.ozon.ru`) or (host: `*.wildberries.ru`)
 
 
 
