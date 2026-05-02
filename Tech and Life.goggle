@@ -1,6 +1,6 @@
 ! name: Tech and Media  ru
 ! description:  top  tech and media news sites
-! public: true
+! public: false
 ! author: igm
 
 $boost=3,site=habr.com
