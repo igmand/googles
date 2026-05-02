@@ -1,0 +1,7 @@
+! name: Perplexity + Web
+! description: Boost Perplexity.ai results within Brave Search
+! public: false
+! author: igm
+
+! Boost Perplexity.ai results to the top, keeping all other results
+$boost=10,site=perplexity.ai
