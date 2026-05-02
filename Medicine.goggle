@@ -1,6 +1,6 @@
 ! name: Medicine
 ! description:  search for science and medical research, top publications, journals, and databases
-! public: true
+! public: false
 ! author: igm
 
 $boost=3,site=capta.ru
