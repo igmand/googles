@@ -1,6 +1,6 @@
 ! name: Business and Finance
 ! description:  top  business and finance news sites
-! public: true
+! public: false
 ! author: igm
 
 $boost=3,site=rbc.ru
