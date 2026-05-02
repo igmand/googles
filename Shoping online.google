@@ -3,9 +3,9 @@
 ! public: true
 ! author: igm
 
-$boost=7,site=ozon.by
-$boost=7,site=wildberries.by
-$boost=7,site=shop.by
+$boost=10,site=ozon.by
+$boost=10,site=wildberries.by
+$boost=10,site=shop.by
 $boost=5,site=emall.by
 $boost=5,site=21vek.by
 $boost=5,site=onliner.by
@@ -24,6 +24,8 @@ $boost=3,site=allegro.pl
 $boost=3,site=idealo.de
 $boost=3,site=shopping.google.com
 
-$downrank=7,site=ozon.ru
-$downrank=7,site=wildberries.ru
+$downrank=10,site=ozon.ru
+$downrank=10,site=wildberries.ru
+*.by^$boost=5
+
 
