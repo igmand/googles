@@ -1,6 +1,6 @@
 ! name:by- ru- news
 ! description: news from by-ru
-! public: true
+! public: false
 ! author: igm
 
 $boost=5,site=ria.ru
