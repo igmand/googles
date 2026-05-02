@@ -1,4 +1,4 @@
-! name: Business Global
+! name: Business and Finance
 ! description:  top  business and finance news sites
 ! public: true
 ! author: igm
@@ -13,6 +13,9 @@ $boost=3,site=bloomberg.com
 $boost=3,site=reuters.com
 $boost=3,site=economist.com
 $boost=3,site=expert.ru
+$boost,site=financemarker.ru
+$boost,site=conomy.ru
+$boost,site=dohod.ru
 $boost,site=incrussia.ru
 $boost,site=journal.tinkoff.ru
 $boost,site=e-xecutive.ru
@@ -42,7 +45,13 @@ $boost,site=theinformation.com
 $boost,site=techcrunch.com
 $boost,site=venturebeat.com
 $boost,site=crunchbase.com
-$boost,site=afr.com
+$boost,site=cointelegraph.com
+$boost,site=decrypt.com
+$boost,site=block-chain24.com
+$boost,site=ru.bitcoinethereumnews.com
+$boost,site=investfunds.ru
+$boost,site=barrons.com
+$boost,site=coinlore.com
 $boost,site=theglobeandmail.com
 $boost,site=financialpost.com
 $boost,site=straitstimes.com
