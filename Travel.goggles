@@ -1,0 +1,29 @@
+! name: Travel 
+! description:  travel related content
+! public: false
+! author: igm
+
+$boost=5,site=tripadvisor.ru
+$boost=5,site=ru.wikivoyage.org
+$boost=5,site=tourprom.ru
+$boost=5,site=travel.ru
+$boost=3,site=airpano.com
+$boost=3,site=100dorog.ru
+$boost=3,site=planet-today.ru
+$boost=3,site=topHotels.ru
+$boost=5,site=tutu.ru
+$boost=5,site=by.trip.com
+$boost=5,site=aviasales.ru
+$boost=3,site=roughguides.com
+$boost=3,site=airbnb.com
+$boost=3,site=hotels.com
+$boost=3,site=kayak.com
+$boost=3,site=skyscanner.com
+$boost=3,site=rome2rio.com
+$boost=3,site=momondo.com
+$boost=3,site=hostelworld.com
+$boost=3,site=couchsurfing.com
+$boost=3,site=agoda.com
+$boost=3,site=hotwire.com
+$boost=3,site=priceline.com
+$boost=3,site=flightradar24.com
