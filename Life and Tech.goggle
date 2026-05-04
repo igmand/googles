@@ -66,3 +66,8 @@ $boost=3,site=profashion.ru
 $boost=3,site=pillintrip.com
 $boost=3,site=vidal.ru
 $boost=3,site=megapteka.ru
+
+*.by^$boost=5
+*.ru^$boost=2
+*.su^$boost=1
+
