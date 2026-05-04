@@ -68,6 +68,6 @@ $boost=3,site=vidal.ru
 $boost=3,site=megapteka.ru
 
 *.by^$boost=5
-*.ru^$boost=2
-*.su^$boost=1
+*.ru^$boost=3
+
 
