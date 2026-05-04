@@ -20,6 +20,14 @@ $boost=3,site=runivers.ru
 $boost=3,site=lib.ru
 $boost=3,site=scholar.google.ru
 $boost=3,site=archive.org
+$boost=5,site=vk.com
+$boost=5,site=ok.ru
+$boost=5,site=facebook.com
+$boost=5,site=kartoteka.by
+$boost=5,site=statuspro.by
+$boost=5,site=instagram.com
+$boost=5,site=yandex.ru
+$boost=5,site=yandex.by
 $boost=3,site=doaj.org
 $boost=3,site=feb-web.ru
 $boost=3,site=imwerden.de
