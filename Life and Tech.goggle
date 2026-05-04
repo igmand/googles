@@ -3,6 +3,11 @@
 ! public: false
 ! author: igm
 
+
+*.by^$boost=5
+*.ru^$boost=3
+$boost=5,site=yandex.ru
+$boost=5,site=yandex.by
 $boost=5,site=habr.com
 $boost=5,site=vc.ru
 $boost=5,site=ixbt.com
@@ -26,8 +31,6 @@ $boost=5,site=facebook.com
 $boost=5,site=kartoteka.by
 $boost=5,site=statuspro.by
 $boost=5,site=instagram.com
-$boost=5,site=yandex.ru
-$boost=5,site=yandex.by
 $boost=3,site=doaj.org
 $boost=3,site=feb-web.ru
 $boost=3,site=imwerden.de
@@ -67,7 +70,5 @@ $boost=3,site=pillintrip.com
 $boost=3,site=vidal.ru
 $boost=3,site=megapteka.ru
 
-*.by^$boost=5
-*.ru^$boost=3
 
 
