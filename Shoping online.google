@@ -3,7 +3,7 @@
 ! public: false
 ! author: igm
 
-*.by^$boost=5
+*.by^$boost=7
 $boost=7,site=ozon.by
 $boost=7,site=wildberries.by
 $boost=7,site=shop.by
@@ -12,6 +12,13 @@ $boost=5,site=21vek.by
 $boost=5,site=onliner.by
 $boost=5,site=1k.by
 $boost=5,site=kufar.by
+$boost=7,site=1000km.by
+$boost=7,site=remzona.by
+$boost=7,site=svmotors.shate-mag.by
+$boost=7,site=auto1.by
+$boost=7,site=bmwmarket.by
+$boost=7,site=avto.pro
+$boost=7,site=baza.drom.ru
 $boost=3,site=skidkaonline.by
 $boost=5,site=tabletka.by
 $boost=3,site=vidal.by
