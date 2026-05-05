@@ -3,7 +3,7 @@
 ! public: false
 ! author: igm
 
-*.by^$boost=7
+*.by^$boost=8
 $boost=7,site=ozon.by
 $boost=7,site=wildberries.by
 $boost=7,site=shop.by
@@ -36,8 +36,6 @@ $boost=3,site=allegro.pl
 $boost=3,site=idealo.de
 $boost=3,site=shopping.google.com
 
-$discard,*"стиль как"*
-$discard,* ТЕХНИЧЕСКИЙ*
 $downrank=5,site=ozon.ru 
 $downrank=5,site=wildberries.ru
 
